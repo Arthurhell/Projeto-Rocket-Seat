@@ -96,6 +96,8 @@ body * {
     border-radius: 9999px;
 }
 
+/*button hover*/
+
 #switch button:hover {
     outline: 6px solid var(--highlight-color);
 }
