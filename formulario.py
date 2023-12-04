@@ -1,0 +1,6 @@
+nome = input ('qual seu nome?')
+idade = input ('qual sua idade?')
+cpf = input ('qual seu CPF?')
+endereco = input ('qual seu Endereco?')
+telefone = input ('qual seu telefone?')
+print ('nome:', nome, 'idade:', idade, 'cpf:', cpf, 'endereco:', endereco, 'telefone:', telefone)
